@@ -29,7 +29,7 @@ A Python-based financial tool that constructs an optimal investment portfolio us
 ## 💻 How to Run This Project
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/arpanjangra/quantitative_portfolio_optimizer.git)
+    git clone https://github.com/arpanjangra/quantitative_portfolio_optimizer.git
     ```
 2.  **Install dependencies:**
     ```bash
